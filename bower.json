@@ -1,0 +1,22 @@
+{
+  "name": "githubtutorial",
+  "homepage": "https://github.com/shahriyarshehab/Html",
+  "authors": [
+    "Shahriyar Shehab <kshahriyar28@gmail.com>"
+  ],
+  "description": "learn terminal and github",
+  "main": "index.html",
+  "keywords": [
+    "hello",
+    "subscribe"
+  ],
+  "license": "you can do anything",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
